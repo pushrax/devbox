@@ -6,3 +6,6 @@ package 'ntp'
 package 'unzip'
 package 'vim-nox'
 package 'zsh'
+
+# Reasonable for a dev box, but don't do this in production!
+execute 'apt-get -y upgrade'
