@@ -1,7 +1,7 @@
 devbox
 ======
 
-The scripted VM I use for development. Orchestrated with Vagrant, and
+The scripted VM I (will) use for development. Orchestrated with Vagrant, and
 provisioned with Chef.
 
 It exists as a public repository mainly to simplify my own access, but feel
