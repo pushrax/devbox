@@ -1,9 +1,12 @@
 package 'build-essential'
+package 'valgrind'
+
 package 'curl'
 package 'git'
 package 'htop'
 package 'ntp'
 package 'unzip'
+
 package 'vim-nox'
 package 'zsh'
 package 'tmux'
